@@ -10,4 +10,4 @@
 
 -Chiara Palermo <https://github.com/chiara-palmero/Modulo_1>
 
--Matias Rosa <https://github.com/MatiasRosa03/Modulo_1>
+-Matias Rosa <https://github.com/MatiasRosa03/Modulo1>
